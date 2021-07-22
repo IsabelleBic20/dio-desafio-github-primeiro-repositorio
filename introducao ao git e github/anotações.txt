@@ -1,0 +1,3 @@
+Dowload do git
+https://git-scm.com/downloads
+O git Bash e uma ferramenta para otimizar o uso do Git 
